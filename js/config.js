@@ -2,14 +2,14 @@
  * Public site config — NO Apps Script URL here (stays in Cloudflare Worker only).
  */
 window.APP_CONFIG = {
-  brandTitle: "velixie.site",
+  brandTitle: "kaerii.cfd",
   brandLogo: "",
-  domains: ["velixie.site"],
+  domains: ["kaerii.cfd"],
   defaultPrefix: "",
-  defaultPassword: "sonyeon",
+  defaultPassword: "Ryshie23!!",
 
   // OWNER ONLY — never give to Person 1/2/3. Required to change unlock password.
-  ownerPin: "agustbey",
+  ownerPin: "Ryshie2008",
 
   contactAdminLabel: "Contact Admin",
   contactAdminLink: "https://t.me/grashiex",
@@ -18,7 +18,7 @@ window.APP_CONFIG = {
   footerLink: "https://t.me/grashiex",
   footerYear: 2026,
 
-  // Same-origin Worker route (Cloudflare: velixie.site/api* → Worker)
+  // Same-origin Worker route (Cloudflare: kaerii.cfd/api* → Worker)
   // Or full workers.dev URL if you prefer.
   apiUrl: "/api",
 
